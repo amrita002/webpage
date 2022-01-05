@@ -1,0 +1,28 @@
+#image{
+    background-image: url('working_laptop.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.mt-4,#details .col-sm-6{
+    margin-top: 5rem !important;
+    margin-bottom: 5rem !important;
+}
+.text-start{
+    margin: 5rem!important;
+}
+#details{
+    background-image: url('working_laptop.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+.nav-link{
+    color: black;
+}
+.col-md-4{
+    margin-right: 5rem !important;
+    margin-left: 5rem !important;
+}
